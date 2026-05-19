@@ -58,7 +58,7 @@ Traditional e-commerce reputation systems are centralized and vulnerable to fake
 
 ### Product Purchase Page
 
-![Product Purchase Page](product-purchase page.png)
+![Product Purchase Page](product-purchase-page.png)
 
 ### Workflow Diagram
 
